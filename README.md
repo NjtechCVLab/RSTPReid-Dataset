@@ -1,7 +1,6 @@
 # RSTPReid-Dataset
 RSTPReid Dataset for our ACMMM2021 accepted paper DSSL: Deep Surroundings-person Separation Learning for Text-based Person Retrieval[1].  
 
-![Dataset](https://github.com/NjtechCVLab/RSTPReid-Dataset/blob/main/Imgs/MM2021Dataset.png)
 
 ## Introduction
 
