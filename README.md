@@ -19,6 +19,6 @@ Password: 8qw0
 ## Reference
 
 [1] Aichun Zhu, Zijie Wang, Yifeng Li, et al. DSSL: Deep Surroundings-person Separation Learning for Text-based Person Retrieval[C]. The 29th ACM International Conference on
-Multimedia, 2021. 
+Multimedia, 2021.(Accepted) 
 
 [2] Longhui Wei, Shiliang Zhang, Wen Gao, and Qi Tian. 2018. Person transfer gan to bridge domain gap for person re-identification. In Proceedings of the IEEE conference on computer vision and pattern recognition. 79–88.
