@@ -7,6 +7,8 @@ RSTPReid Dataset for our ACMMM2021 accepted paper [DSSL: Deep Surroundings-perso
 
 To properly handle real scenarios, we construct a new dataset called Real Scenario Text-based Person Re-identification (RSTPReid) based on [MSMT17](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf) [2]. RSTPReid contains 20505 images of 4,101 persons from 15 cameras. Each person has 5 corresponding images taken by different cameras with complex both indoor and outdoor scene transformations and backgrounds in various periods of time, which makes RSTPReid much more challenging and more adaptable to real scenarios. Each image is annotated with 2 textual descriptions. For data division, 3701, 200 and 200 identities are utilized for training, validation and testing, respectively. Each sentence is no shorter than 23 words. After dropping words that appear less than twice, the word number is 2204.
 
+Considering that the RSTPReid dataset is newly constructed and is relatively small in data size comparing with CUHK-PEDES, we sepatarely trained each model for 10 times and reported the average results on the validation set in Table 1 to avoid occasional and unstable performance. Moreover, in this paper we only use RSTPReid to make a preliminary analysis of the five proposed alignment paradigms and take the results as a further proof of the validity of each component. Most of the experiments in this paper are still conducted using CHUK-PEDES, where the final results on the testing set are reported. More detailed experimental analysis will be conducted on RETPReid along with CUHK-PEDES, which will be reported in the extension of this paper.
+
 ## Dataset Access
 
 ### Google Drive
@@ -18,7 +20,6 @@ Password: bdbp
 
 ## Reference
 
-[1] Aichun Zhu, Zijie Wang, Yifeng Li, et al. DSSL: Deep Surroundings-person Separation Learning for Text-based Person Retrieval[C]. The 29th ACM International Conference on
-Multimedia, 2021.(Accepted) 
+[1] Aichun Zhu, Zijie Wang, Yifeng Li, et al. DSSL: Deep Surroundings-person Separation Learning for Text-based Person Retrieval[C]. The 29th ACM International Conference on Multimedia, 2021.(Accepted) 
 
 [2] Longhui Wei, Shiliang Zhang, Wen Gao, and Qi Tian. 2018. Person transfer gan to bridge domain gap for person re-identification. In Proceedings of the IEEE conference on computer vision and pattern recognition. 79–88.
