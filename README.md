@@ -22,6 +22,6 @@ Password: bdbp
 
 ## Reference
 
-[1] Aichun Zhu, Zijie Wang, Yifeng Li, et al. DSSL: Deep Surroundings-person Separation Learning for Text-based Person Retrieval[C]. The 29th ACM International Conference on Multimedia, 2021.(Accepted) 
+[1] Zhu A, Wang Z, Li Y, et al. DSSL: Deep Surroundings-person Separation Learning for Text-based Person Retrieval[C]//Proceedings of the 29th ACM International Conference on Multimedia. 2021: 209-217.
 
-[2] Longhui Wei, Shiliang Zhang, Wen Gao, and Qi Tian. 2018. Person transfer gan to bridge domain gap for person re-identification. In Proceedings of the IEEE conference on computer vision and pattern recognition. 79–88.
+[2] Wei L, Zhang S, Gao W, et al. Person transfer gan to bridge domain gap for person re-identification[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2018: 79-88.
