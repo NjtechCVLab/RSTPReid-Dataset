@@ -14,11 +14,11 @@ On the testing set of RSTPReid, DSSL achieves **39.05%**, **62.60%** and **73.95
 ## Dataset Access
 
 ### Google Drive
-Link: [https://drive.google.com/file/d/1799U2voiHosH_YMGohE3KwzUA8HPbFsA/view?usp=sharing](https://drive.google.com/file/d/1799U2voiHosH_YMGohE3KwzUA8HPbFsA/view?usp=sharing)
+Link: [https://drive.google.com/file/d/1CQqDcquTq17FJ84IvXtzdxTqf6FyPSQv/view?usp=sharing](https://drive.google.com/file/d/1CQqDcquTq17FJ84IvXtzdxTqf6FyPSQv/view?usp=sharing)
 
 ### Baidu Netdisk
-Link: [https://pan.baidu.com/s/1NmjfnTOMa62O9rSwt5xY-g](https://pan.baidu.com/s/1NmjfnTOMa62O9rSwt5xY-g)  
-Password: bdbp  
+Link: [https://pan.baidu.com/s/1hAk5a3OhqkfvyJF876E7EQ?pwd=z2ow](https://pan.baidu.com/s/1hAk5a3OhqkfvyJF876E7EQ?pwd=z2ow)  
+Password: z2ow  
 
 ## Reference
 
